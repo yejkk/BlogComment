@@ -1,0 +1,2 @@
+# BlogComment
+record blog comment
